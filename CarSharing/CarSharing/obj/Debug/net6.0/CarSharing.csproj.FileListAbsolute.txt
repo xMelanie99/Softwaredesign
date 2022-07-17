@@ -1,0 +1,15 @@
+D:\Benutzer\Dokumente\GitHub\Softwaredesign\CarSharing\CarSharing\bin\Debug\net6.0\CarSharing.exe
+D:\Benutzer\Dokumente\GitHub\Softwaredesign\CarSharing\CarSharing\bin\Debug\net6.0\CarSharing.deps.json
+D:\Benutzer\Dokumente\GitHub\Softwaredesign\CarSharing\CarSharing\bin\Debug\net6.0\CarSharing.runtimeconfig.json
+D:\Benutzer\Dokumente\GitHub\Softwaredesign\CarSharing\CarSharing\bin\Debug\net6.0\CarSharing.dll
+D:\Benutzer\Dokumente\GitHub\Softwaredesign\CarSharing\CarSharing\bin\Debug\net6.0\CarSharing.pdb
+D:\Benutzer\Dokumente\GitHub\Softwaredesign\CarSharing\CarSharing\obj\Debug\net6.0\CarSharing.csproj.AssemblyReference.cache
+D:\Benutzer\Dokumente\GitHub\Softwaredesign\CarSharing\CarSharing\obj\Debug\net6.0\CarSharing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Benutzer\Dokumente\GitHub\Softwaredesign\CarSharing\CarSharing\obj\Debug\net6.0\CarSharing.AssemblyInfoInputs.cache
+D:\Benutzer\Dokumente\GitHub\Softwaredesign\CarSharing\CarSharing\obj\Debug\net6.0\CarSharing.AssemblyInfo.cs
+D:\Benutzer\Dokumente\GitHub\Softwaredesign\CarSharing\CarSharing\obj\Debug\net6.0\CarSharing.csproj.CoreCompileInputs.cache
+D:\Benutzer\Dokumente\GitHub\Softwaredesign\CarSharing\CarSharing\obj\Debug\net6.0\CarSharing.dll
+D:\Benutzer\Dokumente\GitHub\Softwaredesign\CarSharing\CarSharing\obj\Debug\net6.0\refint\CarSharing.dll
+D:\Benutzer\Dokumente\GitHub\Softwaredesign\CarSharing\CarSharing\obj\Debug\net6.0\CarSharing.pdb
+D:\Benutzer\Dokumente\GitHub\Softwaredesign\CarSharing\CarSharing\obj\Debug\net6.0\CarSharing.genruntimeconfig.cache
+D:\Benutzer\Dokumente\GitHub\Softwaredesign\CarSharing\CarSharing\obj\Debug\net6.0\ref\CarSharing.dll

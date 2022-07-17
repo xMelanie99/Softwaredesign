@@ -1,0 +1,6 @@
+Das Programm "CarSharing" wurde mit Visual Studio Community 2022 in C# .NET6.0 geschrieben.
+
+Das Designpattern Singleton wurde in der Display, FileLogin und FileCar Klasse umgesetzt.
+Das Designpattern Transferobjekt wurde in Klassen umgesetzt, die mit dem Namen "Data" anfangen. 
+
+Die Methode IsUserNameAcceptable() in der Klasse Display wurde mit zwei Unit Tests getestet.
